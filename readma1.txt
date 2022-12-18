@@ -1,1 +1,1 @@
-nuevo archivo creado desde la consola
+*******************nuevo archivo creado desde la consola**********************
